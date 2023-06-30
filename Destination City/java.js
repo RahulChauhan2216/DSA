@@ -1,4 +1,4 @@
-let paths = [["qMTSlfgZlC", "ePvzZaqLXj"], ["xKhZXfuBeC", "TtnllZpKKg"], ["ePvzZaqLXj", "sxrvXFcqgG"], ["sxrvXFcqgG", "xKhZXfuBeC"], ["TtnllZpKKg", "OAxMijOZgW"]]
+let paths = [["qMTSlfgZlC", "ePvzZaqLXj"], ["xKhZXfuBeC", "TtnllZpKKg"], ["ePvzZaqLXj", "sxrvXFcqgG"], ["sxrvXFcqgG", "xKhZXfuBeC"], ["TtnllZpKKg", "OAxMijOZgW"]];
 
 let destCity = function (paths) {
 
